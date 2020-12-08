@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+  overflow-y: hidden;
+}
+/* @media (max-width: 770px) {
+  .container {
+    margin: 0 10%;
+  }
+} */

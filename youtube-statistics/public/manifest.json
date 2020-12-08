@@ -1,0 +1,16 @@
+{
+    "short_name": "YT Stats",
+    "name": "Youtube Statistics",
+    "icons": [
+      {
+        "src": "/images/favicon.png",
+        "type": "image/png",
+        "sizes": "1024x1024",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#d32f2f",
+    "background_color": "#303030"
+}

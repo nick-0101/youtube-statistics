@@ -1,0 +1,16 @@
+/* Important Styles */
+.root {
+  flex-grow: 1;
+}
+.menuButton {
+  margin-right: 16px;
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  text-decoration: none;
+  color: #fff;
+  cursor: pointer;
+}

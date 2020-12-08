@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5rem 5% 0 5%;
+}
+
+@media (max-width: 770px) {
+  .container {
+    margin: 5rem 5% 0 5%;
+  }
+}
