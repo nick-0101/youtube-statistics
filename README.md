@@ -2,7 +2,7 @@
 This project was created to learn reactjs. Youtube Statistics tracks any youtubers total subscribers, views, videos and total revenue generated. This project was inspired by 
 [socialblade.com](https://socialblade.com)
 
-Youtube Statistics can be found here: https://youtube-statistics.herokuapp.com/
+Youtube Statistics can be found here (if not heroku has taken it offline due to inactivity): https://youtube-statistics.herokuapp.com/ 
 
 # Tech/framework used #
 Built with
